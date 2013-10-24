@@ -1,0 +1,11 @@
+/* 
+    Document   : table
+    Created on : 25.10.2013, 1:14:22
+    Author     : BSCheshir
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#currencyrate-grid-manage tr td {
+    cursor: pointer;
+}
